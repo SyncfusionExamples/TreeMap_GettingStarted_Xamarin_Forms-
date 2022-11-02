@@ -1,6 +1,6 @@
 # TreeMap Getting Started Xamarin Forms
 
-This repository contains samples for how to get started with the [Syncfusion Xamarin.Forms Tree Map](https://help.syncfusion.com/xamarin/treemap/getting-started) control. The TreeMap control provides a simple yet effective way to visualize flat or hierarchical data as clustered rectangles with a specific weighted attribute determining the size of the rectangle.
+This repository contains samples to get started with the [Syncfusion Xamarin.Forms Tree Map](https://help.syncfusion.com/xamarin/treemap/getting-started) control. The TreeMap control provides a simple yet effective way to visualize flat or hierarchical data as clustered rectangles with a specific weighted attribute determining the size of the rectangle.
 
 ## Syncfusion controls:
 
